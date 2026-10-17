@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local investigation history
+traceguard_history.db
+traceguard_history.db-*
+
+# Local graph backup
+traceguard_graph_backup.json
+
+# Test and cache files
+.pytest_cache/
+.coverage

@@ -1,0 +1,5 @@
+streamlit
+pandas
+falkordb
+streamlit-agraph
+requests
